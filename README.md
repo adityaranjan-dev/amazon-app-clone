@@ -4,8 +4,8 @@ A new Flutter project.
 
 ## Getting Started
 
-A new Flutter project. This is Flutter E-Commerce app with Backend. This Shopping App uses Javascript, Node, Express, MongoDB and Mongoose. This Flutter project also covers the complete UI of Amazon including features like auth with email/password, cart, searching products, fetching them based on category, rating them, fetching deal of the day, checking out using GPay/Apple Pay, viewing the orders, the details of the order along with their status which can be changed from the admin panel, view total sales and graph of sales based on category.
-It also includes creation of REST API's, storage of data in MongoDB using Mongoose, use REST API's with Flutter & Dart using Models, use Flutter State Management tool as Provider and create a cross platform app that works on Android and iOS.
+A new Flutter project. This is an online storefront using the Flutter framework. This shopping application makes use of Javascript, Node, Express, MongoDB, and Mongoose for the backend. Additionally, this Flutter project covers the entire Amazon user interface, including features like login with an email address and password, cart, product search, category-based product retrieval, star rating, deal of the day retrieval, GPay/Apple Pay checkout, order details, and status viewing, total sales view, and category-based sales graph.
+Also included are the establishment of REST APIs, data storage in MongoDB using Mongoose, use of REST APIs with Flutter and Dart using Models, use of the Flutter State Management tool as a Provider, and development of a cross-platform program.
 
 
 A few resources to get you started if this is your first Flutter project:
